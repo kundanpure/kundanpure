@@ -48,9 +48,8 @@ I'm a passionate **Computer Science student** (3rd year) from India 🇮🇳, as
 ---
 
 ## 📫 Let's Connect!
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- 🌐 [Portfolio](https://yourportfolio.com) (Coming soon!)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kundan-kumar-648638236/)  
+- 🌐 [Portfolio](https://kundanpure.github.io/sdeportfolio/)
 
 ---
 
