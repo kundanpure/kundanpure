@@ -72,7 +72,7 @@
 ## 💬 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kundan-kumar-648638236/)  
 - 🌐 [Portfolio](https://kundanpure.github.io/sdeportfolio/)  
-- ✉️ Email: [kundankumar@example.com](mailto:kundankumar@example.com)  
+- ✉️ Email: [codekundan01@gmail.com](mailto:codekundan01@gmail.com)  
 
 ---
 
