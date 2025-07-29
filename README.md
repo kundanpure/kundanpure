@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
-# Hi there, I'm **Kundan Kumar** 👋  
+# Hi there, I'm **Sharad Kumar** 👋  
 ### 🌟 *"Transforming code into impactful solutions!"*  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **3rd Year CSE Student** from India 🇮🇳.  
+- 🎓 **4th Year CSE Student** from India 🇮🇳.  
 - 🚀 Aspiring **Full-Stack Java Developer** exploring **AI, ML, and Generative AI**.  
 - 🔍 Passionate about **coding**, **building real-world projects**, and contributing to **open-source**.  
 
